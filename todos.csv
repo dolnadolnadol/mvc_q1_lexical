@@ -1,0 +1,12 @@
+declare,Keyword and Sign
+abc,Variable
+declare,Keyword and Sign
+def,Variable
+abc,Variable
+=,Assignment
+1,Integer
+def,Variable
+=,Assignment
+abc,Variable
+*,Type error
+abc,Variable
